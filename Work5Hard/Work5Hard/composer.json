@@ -1,0 +1,16 @@
+
+{
+    "name": "user_p4/work5hard",
+    "autoload": {
+        "psr-4": {
+            "UserP4\\Work5hard\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rmt",
+            "email": "rmt@mail.ru"
+        }
+    ],
+    "require": {}
+}
